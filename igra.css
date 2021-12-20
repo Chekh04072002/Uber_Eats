@@ -1,0 +1,20 @@
+/* body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    background-image: "https://s2.best-wallpaper.net/wallpaper/2560x1920/1809/Fast-food-big-hamburger-french-fries_2560x1920.jpg";
+
+}
+/* .wrapper1 {
+    margin: auto;
+} */
+/* #canvas {
+    width: 288px;
+    height: 512px;
+} */ 
+
+body {
+    background-image: 'https://s2.best-wallpaper.net/wallpaper/2560x1920/1809/Fast-food-big-hamburger-french-fries_2560x1920.jpg';
+}
